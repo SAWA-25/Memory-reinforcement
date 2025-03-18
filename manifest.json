@@ -1,0 +1,11 @@
+{
+    "display_name": "记忆增强插件",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "sawa",
+    "version": "1.0",
+    "homePage": "https://github.com/SAWA-25/Memory-reinforcement"
+}
